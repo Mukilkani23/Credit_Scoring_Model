@@ -118,7 +118,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Click here to try the app](#) ← *(add Streamlit Cloud link after deployment)*
+[App Lives Here](https://creditscoringmodel-eenxhfpk8xq5rxozz9bbuf.streamlit.app/) 
 
 ---
 
@@ -135,4 +135,4 @@ streamlit run app.py
 
 **Mukilkani R P**  
 B.E. CSE 
-[GitHub](https://github.com/Mukilkani23) · [LinkedIn]()
+[GitHub](https://github.com/Mukilkani23) · [LinkedIn](https://www.linkedin.com/in/mukilkani-r-p-62831b369/)
