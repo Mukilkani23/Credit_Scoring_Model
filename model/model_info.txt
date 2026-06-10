@@ -1,10 +1,6 @@
-=======================================================
-🎉 TRAINING COMPLETE!
-=======================================================
-
-  Best Model : XGBoost
-  Accuracy   : 0.9167
-  Precision  : 0.8312
-  Recall     : 0.7757
-  F1-Score   : 0.8025
-  ROC-AUC    : 0.9448
+best_model=XGBoost
+roc_auc=0.9448
+f1=0.8025
+accuracy=0.9167
+precision=0.8312
+recall=0.7757
